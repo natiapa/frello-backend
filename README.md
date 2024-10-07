@@ -70,8 +70,8 @@ The backend of the Frello project management application is a robust and product
 This project was developed collaboratively by:
 - [Yana Pletner](https://github.com/YanaPletner)
 - [Avi Friedman](https://github.com/avi-friedman-IL)
-- [Nati Apa](https://github.com/natiapa)
-- Or Cohen
+- [Natia Cohen](https://github.com/natiapa)
+
 
 ## Dependencies
 
